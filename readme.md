@@ -6,13 +6,16 @@
 
 *仅html + js*
 
-**initialization.js**
+## initialization.js
+
 程序入口，初始化的触发，还有一个控制器，控制器暂时不宜放在papare.js中去初始化，变量参数会比较麻烦。
 
-**papare.js**
+## papare.js
+
 把渲染器，相机，场景等必要的基础组件单独初始化。 如需修改相关属性，仅需在此修改。
 
-**draw**
+## raw
+
 物体的绘制，只需要在draw中去进行创作。 
 
 
