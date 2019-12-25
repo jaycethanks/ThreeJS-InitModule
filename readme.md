@@ -2,7 +2,7 @@
 
 
 对于Three.js初学者，可能看到网上一堆各种文章，看着很杂乱。
-该模版仅包含了一个OrbitCtrols轨道控制器，以及Three.js，加上一个性能插件。
+该模版仅包含了一个OrbitCtrols轨道控制器，以及Three.js，加上一个性能插件。用于学习各种demo实验测试用。
 
 *仅html + js*
 
