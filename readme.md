@@ -18,5 +18,6 @@
 
 物体的绘制，只需要在draw中去进行创作。 
 
+预览：[ThreeJsDemoPlatform](https://jaycethanks.github.io/demos/ThreeJsDemoPlatform/)
 
 ![](readme/a.jpg)
